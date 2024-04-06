@@ -1,0 +1,38 @@
+Functional Requirement
+
+Login/register
+- Login based on role
+- Register user based on school choosen
+
+Admin
+- Submit second login form for security
+- Approve registration of staff
+
+Staff
+- Approve registration for teacher, student, and parent
+- Create class name and subject name for the specific school
+
+Teacher
+- Create to-do-list for themself
+- Enroll student into his/her class
+- Create announcement for class for any upcoming event
+- Upload learning notes for student
+- Create quiz for student
+- Create exam for student
+- Edit profile
+
+Student
+- Create to-do-list for themself
+- Approve parent'user as his/her parent
+- Display classmate with either visual form or table form
+- Display announcement given from teacher
+- Download learning notes based on month uploaded
+- Answer quiz question
+- Answer exam question
+- Display both quiz and exam result
+- Edit profile
+
+Parent
+- Apllying for student as their children in the system
+- Display result from their children
+- Edit profile
